@@ -1,12 +1,12 @@
-# Actividad 1: Conceptos de Sistemas operativos. Archivo e IP
+# Actividad 1: Conceptos de Sistemas operativos, Archivo e IP
 ***
-## Sistemas Operativos
+### Sistemas Operativos
 Ambas personas reconocieron que un sistema operativo es fundamental para el funcionamiento de una computadora y mencionaron ejemplos como windows, linux y mac.
 
-## Archivo
-Mencionaron saber que es un archivo en general mas no como describirlo, dieron ejemplos como archivos PDF y Word, y que pueden ser editas, crados, enviados o resividos por los usuarios.
+### Archivo
+Mencionaron saber que es un archivo en general mas no como describirlo, dieron ejemplos como archivos PDF y Word, y que pueden ser editadoss, creados, enviados o resividos por los usuarios.
 
-## IP
+### IP
 Ninguna de las dos personas supo que era IP pero si que lo han escuchado mayormente en series o peliculas que contienen escenas que involucren tecnologias.
 
 ## Conclusion
