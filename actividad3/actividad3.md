@@ -4,7 +4,7 @@
 
 ### 1. Creación de Usuarios
 
-![](/activida3/capturas/captura1.png)
+![](capturas/captura1.png)
 ![](/activida3/capturas/captura2.png)
 
 ### 2. Asignacion de Contraseas
