@@ -47,7 +47,7 @@ int main() {
 #### Mensaje durante y despues de ejecutar el programa
 ![](capturas/image2.png)
 #### Mensaje al ejecutar ps -l durante la ejecucion del programa
-![](capturas/image4.png)
+![](capturas/image3.png)
 
 ### 3. Usando el siguiente código como referencia, completar el programa para que sea ejecutable y responder las siguientes preguntas:
 ###     • ¿Cuántos procesos únicos son creados?
